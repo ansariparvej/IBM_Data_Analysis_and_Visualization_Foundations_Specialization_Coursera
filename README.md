@@ -28,8 +28,6 @@ Projects
 
 - Extract and graph financial data with the Pandas data analysis Python library.
 
-- Use SQL to query census, crime, and school demographic data sets.
-
 - Wrangle data, graph plots, and create regression models to predict housing prices with data science Python libraries.
 
 - Create a dynamic Python dashboard to monitor, report, and improve US domestic flight reliability.
@@ -46,7 +44,7 @@ This credential earner has demonstrated proficiency in applying different analyt
 
 ## 📙 Course Structures
 
-There are 9 Courses in this Professional Certificate Specialization are as follows:
+There are 4 Courses in this Professional Certificate Specialization are as follows:
 
 - [x] [__Course-1 : Introduction to Data Analytics__](https://github.com/ansariparvej/IBM_Data_Analysis_and_Visualization_Foundations_Specialization_Coursera/blob/main/1.%20Certificates/1.%20Introduction%20to%20Data%20Analytics.pdf)
 
