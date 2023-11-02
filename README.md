@@ -30,8 +30,6 @@ Projects
 
 - Wrangle data, graph plots, and create regression models to predict housing prices with data science Python libraries.
 
-- Create a dynamic Python dashboard to monitor, report, and improve US domestic flight reliability.
-
 At the end of the program, you complete a real-world capstone project specifically designed to showcase your newly learned data analyst skills.
 
 ---
