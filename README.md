@@ -42,16 +42,13 @@ At the end of the program, you complete a real-world capstone project specifical
 
 This credential earner has demonstrated proficiency in applying different analytical techniques by analyzing real-world datasets, creating visualizations & interactive dashboards, and presenting reports to share findings of data analysis, and is now equipped with skills for an entry-level role in data analytics. The earner has successfully completed 9 courses in Data Analytics and gained hands-on experience with data analysis tools, including Excel, SQL, Databases, Python, JupyterLab and Cognos.
 
-<p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Coursera KELB5RZGPCH2.png" width=80% height=80%>
-
 ---
 
 ## 📙 Course Structures
 
 There are 9 Courses in this Professional Certificate Specialization are as follows:
 
-- [x] [__Course-1 : Introduction to Data Analytics__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-1%20:%20Introduction%20to%20Data%20Analytics)
+- [x] [__Course-1 : Introduction to Data Analytics__](https://github.com/ansariparvej/IBM_Data_Analysis_and_Visualization_Foundations_Specialization_Coursera/blob/main/1.%20Certificates/1.%20Introduction%20to%20Data%20Analytics.pdf)
 
 This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions. You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining.
 
@@ -65,10 +62,7 @@ This course presents a gentle introduction into the concepts of data analysis, t
 
 - Identify key elements in the Data Analytics process by analyzing a business case study and its data set. 
 
-<p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-1-Coursera X5PWECG36MRX.png" width=60% height=60%>
-
-- [x] [__Course-2 : Excel Basics for Data Analysis__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-2%20:%20Excel%20Basics%20for%20Data%20Analysis)
+- [x] [__Course-2 : Excel Basics for Data Analysis__](https://github.com/ansariparvej/IBM_Data_Analysis_and_Visualization_Foundations_Specialization_Coursera/blob/main/1.%20Certificates/2.%20Excel%20Basics%20for%20Data%20Analysis.pdf)
 
 This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with spreadsheets and their usage in the process of analyzing data.  It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions for you to apply and practice on a live spreadsheet.
   
@@ -83,11 +77,7 @@ This course is designed to provide you with basic working knowledge for using Ex
 - Analyze data in spreadsheets by using filtering, sorting, look-up functions, and pivot tables.
   
 
-<p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-2-Coursera MH5F5DFUHM37.png" width=60% height=60%>
-
-
-- [X] [__Course-3 : Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-3%20:%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
+- [X] [__Course-3 : Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/ansariparvej/IBM_Data_Analysis_and_Visualization_Foundations_Specialization_Coursera/blob/main/1.%20Certificates/3.%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos.pdf)
 
 This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. Begin the process of telling a story with your data by creating the many types of charts that are available in spreadsheets like Excel. Explore the different tools of a spreadsheet, such as the important pivot function and the ability to create dashboards and learn how each one has its own unique property to transform your data. Continue to gain valuable experience by becoming familiar with the popular analytics tool - IBM Cognos Analytics - to create interactive dashboards.
   
@@ -101,11 +91,8 @@ This course covers some of the first steps in the development of data visualizat
 
 - Build dashboards using Excel and Cognos Analytics.
   
-<p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-3-Coursera N4WJHB723LXU.png" width=60% height=60%>
 
-
-- [X] [__Course-4 : Assessment for Data Analysis and Visualization Foundations__ ](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-3%20:%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
+- [X] [__Course-4 : Assessment for Data Analysis and Visualization Foundations__ ](https://github.com/ansariparvej/IBM_Data_Analysis_and_Visualization_Foundations_Specialization_Coursera/blob/main/1.%20Certificates/4.%20Assessment%20for%20Data%20Analysis%20and%20Visualization%20Foundations.pdf)
 
 You will be tested on what you have learned in the above three courses. By now you should be proficient in topics such as: 
 
@@ -123,6 +110,3 @@ You will be tested on what you have learned in the above three courses. By now y
 
 - Describing the basics of dashboarding with Cognos Analytics 
   
-<p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-3-Coursera N4WJHB723LXU.png" width=60% height=60%>
-
